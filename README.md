@@ -90,3 +90,4 @@ Adjust `ps-lpr-command` for your machine's `gswin32c.exe` executable path.
 ### M-x sudoku skill level ###
 
     (setq sudoku-level "medium")
+hi
